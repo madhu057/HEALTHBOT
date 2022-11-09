@@ -35,25 +35,6 @@ This is a web based application developed for health related website in india.
 
    ![ABOUT](https://user-images.githubusercontent.com/113963116/200854420-377d8a31-006e-4e16-85bd-34b7cc146e22.png)
 
-### Contact - 
-
-    ![CONTACT-1](https://user-images.githubusercontent.com/113963116/200854734-97e1083a-a565-4790-b8a0-84f8ed894a22.png)
-
-    
-    ![CONTACT-2](https://user-images.githubusercontent.com/113963116/200854864-c4b15841-06e7-4d32-9f7d-9e0d02b20370.png)   
-
-
-### Services -
-
-
-    ![SERVICES](https://user-images.githubusercontent.com/113963116/200855078-95aaf8fe-e772-46a0-9743-f0ea45d193f7.png)
-
-
-### Desclaimer - 
-
-
-    ![DESCLAIMER](https://user-images.githubusercontent.com/113963116/200855179-28f523ce-e8de-4b95-af8e-ec149ef3f8ef.png)
-
 
 ## Tech Stack 💻
 
